@@ -1,15 +1,16 @@
 # camping-checklist
 A checklist for a group headed into the mountains for a multi-day trip.
 
-## Per person
+## For the individual, pack:
 
 ### 10 Essentials bag
 - [ ] Map
 - [ ] Compass
-- [ ] Sunglasses 
+- [ ] Sunglasses
 - [ ] Sunblock
-- [ ] Extra clothing
-- [ ] Headlamp
+- [ ] Lip balm
+- [ ] Mylar space blanket
+- [ ] Headlamp (with extra set of AAA batteries)
 - [ ] First-aid kit
 - [ ] Firestarter
 - [ ] Matches
@@ -43,10 +44,8 @@ A checklist for a group headed into the mountains for a multi-day trip.
 - [ ] Nalgene bottle holster (with carabiner)
 - [ ] Small stuff sacks
 - [ ] Cinching straps
-- [ ] Extra AAA batteries (for headlamp or other devices)
-- [ ] Chapstick
 
-## Per group
+## For the group, pack:
 
 ### Cooking
 - [ ] MSR stove
@@ -67,18 +66,14 @@ A checklist for a group headed into the mountains for a multi-day trip.
 - [ ] Bug repellent
 - [ ] Aleve
 
-## Before leaving home
+## Before leaving home, check:
 - [ ] The car's tire pressure and fluids are OK
 - [ ] There is extra drinking water in the car
 - [ ] The tent is intact and has all of its poles
 - [ ] The stove is working
 - [ ] The water filter or sterilizer is working
 
-## Before entering the trailhead
+## Before hitting the trail, check:
 - [ ] There is no food in the car
 - [ ] The group permit is in order and in someone's possession
 - [ ] People at home and at the ranger station know where you're headed and how long you plan to be there
-
-
-
-

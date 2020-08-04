@@ -10,7 +10,7 @@ A checklist for a group headed into the mountains for a multi-day trip.
 - [ ] Sunblock
 - [ ] Lip balm
 - [ ] Mylar space blanket
-- [ ] Headlamp (with extra set of AAA batteries)
+- [ ] Headlamp (with extra set of three AAA batteries)
 - [ ] First-aid kit
 - [ ] Firestarter
 - [ ] Matches
@@ -38,7 +38,7 @@ A checklist for a group headed into the mountains for a multi-day trip.
 - [ ] Daypack
 - [ ] Sleeping bag
 - [ ] Sleeping pad
-- [ ] Drinking cup
+- [ ] Cup
 - [ ] Spork
 - [ ] Nalgene bottle
 - [ ] Nalgene bottle holster (with carabiner)
@@ -54,9 +54,9 @@ A checklist for a group headed into the mountains for a multi-day trip.
 - [ ] Cooking pot set
 - [ ] Bic lighters
 - [ ] Ziploc bags (for storage and trash)
-- [ ] Freeze-dried dinner (one bag per night)
-- [ ] Instant oatmeal (one packet per morning per person)
-- [ ] Protein bars (3 per day per person)
+- [ ] Freeze-dried dinner (one bag per two persons per night)
+- [ ] Instant oatmeal (two packets per person per morning)
+- [ ] Protein bars (three per day per person)
 - [ ] Trail mix (one bag per day)
 
 ### Shelter and comfort
